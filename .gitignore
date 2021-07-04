@@ -1,0 +1,5 @@
+## node_modules for FE
+angular11-todo-api-frontend/node_modules/*
+
+## venv directory for BE
+python3-drf-backend/venv/*
